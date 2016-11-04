@@ -8,7 +8,7 @@
 まず画像を読み込み表示する。読み込むためには、imread関数を、表示するにはimagesc関数を用いる。
 
     01 IMG = imread(http://img01.gahag.net/201601/06o/gahag-0043319665.jpg);%画像をIMG変数に格納
-    02 imagesc(IMG);%IMGを表示
+    02 image(IMG);%IMGを表示
 
 今回は以下のような著作権フリー画像を用いて検討する。  
 
