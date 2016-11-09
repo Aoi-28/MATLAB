@@ -1,7 +1,8 @@
-IMG = imread('http://img01.gahag.net/201601/06o/gahag-0043319665.jpg');
+IMG = imread('http://photosku.com/images_file/small_images/s004_420.jpg');
 image(IMG);axis image;
 pause;
 
+%画像を
 A = imresize(IMG,0.5);
 B = imresize(A,2,'box');
 imagesc(B);axis image;
@@ -17,17 +18,17 @@ B = imresize(A,8,'box');
 imagesc(B);axis image;
 pause;
 
-A = imresize(IMG,0.5);
+A = imresize(A,0.5);
 B = imresize(A,16,'box');
 imagesc(B);axis image;
 pause;
 
-A = imresize(IMG,0.5);
+A = imresize(A,0.5);
 B = imresize(A,32,'box');
 imagesc(B);axis image;
 pause;
 
-A = imresize(IMG,0.5);
+A = imresize(A,0.5);
 B = imresize(A,64,'box');
 imagesc(B);axis image;
 pause;
