@@ -64,13 +64,13 @@ MATLABにおける画像の拡大縮小は、imresize関数を用いて行う。
 
 以下に1/8倍処理、1/16倍処理、1/32倍処理、1/64倍処理を行った場合の画像を記す。
 
-<img src="./Report_Picture_01/1_8.jpg" alt="">  
+<img src="./Report_Picture_01/1_8.jpg" alt="1/8倍処理">  
 図5. 1/8倍サンプリング画像  
-<img src="./Report_Picture_01/1_16.jpg" alt="">  
+<img src="./Report_Picture_01/1_16.jpg" alt="1/16倍処理">  
 図6. 1/16倍サンプリング画像  
-<img src="./Report_Picture_01/1_32.jpg" alt="">  
+<img src="./Report_Picture_01/1_32.jpg" alt="1/32倍処理">  
 図7. 1/32倍サンプリング画像  
-<img src="./Report_Picture_01/1_64.jpg" alt="">  
+<img src="./Report_Picture_01/1_64.jpg" alt="1/64倍処理">  
 図8. 1/64倍サンプリング画像  
 
 このように、解像度が荒くなると、標本点の間隔が大きくなるために画像が荒くなる(ぼやけたように見える)と言える。
