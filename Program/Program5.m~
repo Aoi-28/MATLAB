@@ -11,6 +11,7 @@ colorbar;
 imagesc(IMG);
 pause;
 
+
 %画素数
 
 %平均
