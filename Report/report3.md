@@ -16,7 +16,7 @@ MATLABにおける閾値の処理の仕方は、閾値を超える値が真(1)�
 他の閾値の場合も同様である。
 
 ####3.ソースコード
-[ソースコード](./Program/Program3.m)
+[ソースコード](../Program/Program3.m)
 
 ####4.実行結果
 <img src="./Report_Picture_03/doggray.jpg" alt="">  
