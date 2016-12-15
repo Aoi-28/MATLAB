@@ -14,7 +14,7 @@ MATLABにおいて画像のヒストグラムを表示するためには、imhis
 なお、MATLABにおいての濃度ヒストグラムの表示は、グレースケールの画像でないと表示できないために、画像をグレースケールに変換する必要がある。
 
 ####3.ソースコード
-[ソースコード](../Program/program4.m)
+[ソースコード](../Program/Program4.m)
 
 ####4.実行結果
 <img src="./Report_Picture_04/graybeget.jpg" alt="">  
