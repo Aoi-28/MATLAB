@@ -23,6 +23,6 @@
 
 　
 ####5-2.課題5
-[課題5　レポート](./Report/report5.md)
+[課題5　レポート](/Report/report5.md)
 
 
