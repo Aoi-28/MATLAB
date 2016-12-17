@@ -19,7 +19,7 @@ max = 0;
 threshold = 1;
 ave = mean(hist);
 
-%ヒストグラムから黒くラスト白クラスに分割
+%ヒストグラムから黒クラスと白クラスに分割
 for i = 1:255
     Cl1 = hist(1:i);
     Cl2 = hist(i+1:256);
