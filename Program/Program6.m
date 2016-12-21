@@ -22,7 +22,7 @@ colormap(gray);
 colorbar;
 pause;
 
-%MATLAB関数による2値化
+%MATLAB関数による2値化(判別分析法を使用したしきい値の決定)
 BW = imbinarize(IMG);
 imagesc(BW);
 pause;

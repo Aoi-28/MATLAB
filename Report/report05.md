@@ -33,7 +33,9 @@ MATLABでの処理としては、
 
 ####4.実行結果
 以下に実行結果を示す。<br>
-<img src="" alt="使用画像"><br>
+<img src="./Report_Picture_05/Play.jpg" alt="使用画像"><br>
+図1.使用画像1<br>
+
 <img src="" alt="処理後画像濃淡変化少なめ"><br>
 <img src="" alt=""><br>
 <img src="" alt=""><br>
