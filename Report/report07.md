@@ -24,6 +24,20 @@ MATLABでダイナミックレンジを拡大するには、まず画像を倍�
 [ソースコード](../Program/Program7.m)
 
 ####4.実行結果
+<img src="./Report_Picture_07/pic.jpg" alt="使用画像" width="300"><br>
+図1.使用画像  
+<img src="./Report_Picture_07/picgray.jpg" alt=""><br>
+図2.グレースケール画像  
+<img src="./Report_Picture_07/picgrayextend.jpg" alt="ダイナミックレンジ拡大"><br>
+図3.ダイナミックレンジ拡大画像  
+<img src="./Report_Picture_07/picgrayhist.jpg" alt=""><br>
+図4.グレースケール画像ヒストグラム  
+<img src="./Report_Picture_07/picgrayextendhist.jpg" alt=""><br>
+図5.ダイナミックレンジ拡大後のヒストグラム
 
 ####5.考察
+今回は、ダイナミックレンジ(濃度の最大値と最小値)を拡大した。  
 
+実験結果からもわかるように、濃度ヒストグラムが少し左側にずれていることがわかる。
+
+ダイナミックレンジを変更することで得られる利点として、ダイナミックレンジが狭い画像の場合、コントラストが低い画像になる問題が生じるが、これを解消することができる。

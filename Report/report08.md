@@ -15,6 +15,17 @@ MATLABにおいては、ラベリング処理をする関数が搭載されて�
 [ソースコード](../Program/Program8.m)
 
 ####4.実行結果
+<img src="./Report_Picture_08/tree.jpg" alt="" width="300"><br>
+図1.使用画像  
+<img src="./Report_Picture_08/treegraythre.jpg" alt=""><br>
+図2.閾値による2値化処理  
+<img src="./Report_Picture_08/treegraythrelabel.jpg" alt=""><br>
+図3.ラベリング処理後の画像  
 
 ####5.考察
+今回は、画像のラベリングを行った。
+ラベリングは、連結成分が同じものに数値を割り当てるなどをするグループ化処理のことで、ラベリングをすることで、欠陥検出検査や、分類処理などに応用することができる。
+
+実行結果からもわかるように、連結成分ごとに濃度が変わって表示されている。
+
 
