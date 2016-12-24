@@ -75,4 +75,5 @@
 
 
 ####3−8.課題
-[課題3 レポート](/Report/report03.md)
+[課題3 レポート](/Report/report03.md)  
+[課題6 レポート](/Report/report06.md)  
