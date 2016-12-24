@@ -14,15 +14,15 @@
 
 
 クラス内分散は  
-	<img src="" alt="">  
+	<img src="../Report/Report_Picture_05/classin.png" alt=""><br>  
 クラス間分散は  
-	<img src="" alt="">  
-で求まる。これを
-	<img src="" alt="">
+	<img src="../Report/Report_Picture_05/classout.png" alt="">  
+で求まる。これを  
+	<img src="../Report/Report_Picture_05/part.png" alt=""><br>
 で比を求めた結果が最大となるような値が閾値となる。
 
 　
 ####5-2.課題5
-[課題5　レポート](/Report/report5.md)
+[課題5　レポート](/Report/report05.md)
 
 
