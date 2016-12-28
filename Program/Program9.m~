@@ -59,24 +59,3 @@ imagesc(IMG);
 colormap(gray);
 colorbar;
 pause;
-
-%ディザー法画像のノイズ除去
-IMG = imread('../Report/Report_Picture_09/cookie.jpg');
-IMG = rgb2gray(IMG);
-IMG = dither(IMG);
-imagesc(IMG);
-colormap(gray);
-colorbar;
-pause;
-
-Y3 = filter2(h,IMG);
-imagesc(Y3);
-colormap(gray);
-colorbar;
-pause;
-
-Y3 = medfilt2(Y3, [3 3]);
-imagesc(Y3);
-colormap(gray);
-colorbar;
-pause;
